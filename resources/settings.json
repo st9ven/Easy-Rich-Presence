@@ -1,0 +1,28 @@
+{
+    "clientId": "999893589872099330",
+
+    "state": "Easy Rich Presence",
+    "details": "Using steven.#3540 script",
+
+    "timestamp": true,
+
+    "large_image": {
+        "image": "large",
+        "text": "steven.#3540"
+    },
+    "small_image": {
+        "image": "small",
+        "text": "Easy Rich Presence"
+    },
+
+    "buttons": {
+        "button_1": {
+            "text": "Easy Rich Presence",
+            "link": "https://github.com/st9ven/Easy-Rich-Presence"
+        },
+        "button_2": {
+            "text": "Follow Me",
+            "link": "https://github.com/st9ven"
+        }
+    }
+}
