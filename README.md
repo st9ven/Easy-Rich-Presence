@@ -17,7 +17,7 @@ Copy the application id you created earlier.
 
 ![Application ID](/assets/ApplicationID.png)
 
-Add new images to use in large_image and small_image.
+Add new images for large_image and small_image.
 
 ![Assets](/assets/Assets.png)
 
